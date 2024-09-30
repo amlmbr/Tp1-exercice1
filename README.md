@@ -5,6 +5,25 @@
 Nous souhaitons créer une application nommée HelloToast qui comprend deux boutons (Button) et un champ texte (TextView). Lorsque 
 l'utilisateur appuie sur le premier bouton, un message court (un Toast) est affiché à l'écran. A chaque clic sur le deuxième bouton un compteur s’incrémente et la valeur s’affiche dans le TextView
 
+Description:
+
+Cette application comprend deux boutons et un champ texte. En appuyant sur le premier bouton, un message Toast s'affiche. Le deuxième bouton incrémente un compteur affiché dans le TextView.
+
+Fonctionnalités:
+
+•	Affichage d'un message Toast.
+•	Incrémentation d'un compteur.
+Instructions:
+
+1.	Lancez l'application.
+2.	Appuyez sur le premier bouton pour voir le Toast.
+3.	Appuyez sur le deuxième bouton pour incrémenter le compteur.
+   
+Technologies utilisées:
+
+•	Android Studio
+•	Java
+
 
 video demo :
 
